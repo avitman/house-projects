@@ -1,4 +1,4 @@
-import type { AppData, Project, Task, ShoppingItem } from "../../src/types";
+import type { AppData, Project, Task, ShoppingItem } from "../../src/types.js";
 
 type Cell = string | number | boolean;
 
